@@ -1,0 +1,432 @@
+{
+	"version": 0,
+	"enableManufacturerExtras": true,
+	"configurationName": "",
+	"carControllerMode": 1,
+	"gearShiftDebouncingMs": 50,
+	"commandDevices": [
+		{
+			"version": 0,
+			"productName": "Controller (XBOX 360 For Windows)",
+			"productId": "301934814-10462-0-00807368867368",
+			"instanceGuid": "{11FF28DE-28DE-0001-0000-504944564944}",
+			"steeringWheelModel": "None",
+			"isGamePad": 0,
+			"isPedals": 0,
+			"iconTemplate": "None",
+			"uICommandButtonList": [],
+			"raceCommandButtonList": [
+				{
+					"buttonIndex": 4,
+					"powIndex": -1,
+					"powValue": 0,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "Pinkie",
+					"extendedActionCode": "None",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": -1,
+					"powIndex": 0,
+					"powValue": 9000,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "IncreaseTC",
+					"extendedActionCode": "None",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": -1,
+					"powIndex": 0,
+					"powValue": 27000,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "DecreaseTC",
+					"extendedActionCode": "None",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": -1,
+					"powIndex": 0,
+					"powValue": 0,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "IncreaseBrakeBias",
+					"extendedActionCode": "None",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "IncreaseABS",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": -1,
+					"powIndex": 0,
+					"powValue": 18000,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "DecreaseBrakeBias",
+					"extendedActionCode": "None",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "DecreaseABS",
+					"pinkieExtendedActionCode": "None"
+				}
+			],
+			"raceCommandAxisList": [],
+			"forceFeedbackGain": 1,
+			"steerScale": 1,
+			"steerLock": 900,
+			"dynamicDamping": 1,
+			"steerLinearity": 1,
+			"roadEffects": 0,
+			"minDamper": 0,
+			"damperGain": 1,
+			"antaniGain": 1,
+			"minimumForceFeedback": 0,
+			"brakeGamma": 1,
+			"combinedPedals": 0
+		},
+		{
+			"version": 0,
+			"productName": "FANATEC CSL Elite Pedals LC",
+			"productId": "1644433079-0-0-00807368867368",
+			"instanceGuid": "{8937FEB0-575F-11EB-8001-444553540000}",
+			"steeringWheelModel": "None",
+			"isGamePad": 0,
+			"isPedals": 1,
+			"iconTemplate": "None",
+			"uICommandButtonList": [],
+			"raceCommandButtonList": [],
+			"raceCommandAxisList": [],
+			"forceFeedbackGain": 1,
+			"steerScale": 1,
+			"steerLock": 900,
+			"dynamicDamping": 1,
+			"steerLinearity": 1,
+			"roadEffects": 0,
+			"minDamper": 0,
+			"damperGain": 1,
+			"antaniGain": 1,
+			"minimumForceFeedback": 0,
+			"brakeGamma": 1,
+			"combinedPedals": 0
+		},
+		{
+			"version": 0,
+			"productName": "FANATEC CSL Elite Wheel Base Ps4",
+			"productId": "331447-0-0-00807368867368",
+			"instanceGuid": "{97B668D0-36FA-11EB-8003-444553540000}",
+			"steeringWheelModel": "XBOX-Wheel",
+			"isGamePad": 0,
+			"isPedals": 0,
+			"iconTemplate": "None",
+			"uICommandButtonList": [],
+			"raceCommandButtonList": [],
+			"raceCommandAxisList": [],
+			"forceFeedbackGain": 1,
+			"steerScale": 1,
+			"steerLock": 1080,
+			"dynamicDamping": 1,
+			"steerLinearity": 1,
+			"roadEffects": 0,
+			"minDamper": 0,
+			"damperGain": 1,
+			"antaniGain": 1,
+			"minimumForceFeedback": 0,
+			"brakeGamma": 1,
+			"combinedPedals": 0
+		},
+		{
+			"version": 0,
+			"productName": "FANATEC CSL Elite Wheel Base Ps4",
+			"productId": "331447-0-0-00807368867368",
+			"instanceGuid": "{97B68FE0-36FA-11EB-8004-444553540000}",
+			"steeringWheelModel": "XBOX-Wheel",
+			"isGamePad": 0,
+			"isPedals": 0,
+			"iconTemplate": "None",
+			"uICommandButtonList": [],
+			"raceCommandButtonList": [],
+			"raceCommandAxisList": [],
+			"forceFeedbackGain": 1,
+			"steerScale": 1,
+			"steerLock": 1080,
+			"dynamicDamping": 1,
+			"steerLinearity": 1,
+			"roadEffects": 0,
+			"minDamper": 0,
+			"damperGain": 1,
+			"antaniGain": 1,
+			"minimumForceFeedback": 0,
+			"brakeGamma": 1,
+			"combinedPedals": 0
+		}
+	],
+	"gamepadSettings":
+	{
+		"useSteerWithRight": false,
+		"rumbleIntensity": 0.40000000596046448,
+		"steerSpeed": 0.0099999997764825821,
+		"steerGamma": 3,
+		"steerFilter": 0.95999997854232788,
+		"deadZone": 0,
+		"speedSensitivity": 0.69999998807907104,
+		"useAutoSteer": true,
+		"useOldVibration": false,
+		"uICommandButtonList": [],
+		"raceCommandButtonList": [
+			{
+				"actionType": "GearDown",
+				"key":
+				{
+					"key": "Gamepad_FaceButton_Left",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "GearUp",
+				"key":
+				{
+					"key": "Gamepad_FaceButton_Bottom",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "IncreaseABS",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "IncreaseTC",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "DecreaseBrakeBias",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "CameraMoveUp",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "CameraMoveDown",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "IncreaseBrakeBias",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "DecreaseBrakeBias",
+				"key":
+				{
+					"key": "Gamepad_DPad_Down",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "CycleCarLightStages",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "LookBack",
+				"key":
+				{
+					"key": "Gamepad_RightThumbstick",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "LookLeft",
+				"key":
+				{
+					"key": "Gamepad_LeftShoulder",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "LookRight",
+				"key":
+				{
+					"key": "Gamepad_RightShoulder",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			}
+		]
+	},
+	"keyboardSettings":
+	{
+		"mouseSteering": false,
+		"mouseAcceleratorBrake": false,
+		"steerSpeed": 3.5,
+		"steerOppositeDirectionFactor": 3.5,
+		"steerGain": 0.20000000298023224,
+		"steerResetFactor": 1.7999999523162842,
+		"lookAhead": 4,
+		"mouseSpeed": 0.10000000149011612,
+		"uICommandButtonList": [],
+		"raceCommandButtonList": [
+			{
+				"actionType": "KeyboardSteerLeft",
+				"key":
+				{
+					"key": "Comma",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "KeyboardSteerRight",
+				"key":
+				{
+					"key": "Period",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "KeyboardGas",
+				"key":
+				{
+					"key": "A",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "KeyboardBrake",
+				"key":
+				{
+					"key": "Z",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "KeyboardGearUp",
+				"key":
+				{
+					"key": "SpaceBar",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "KeyboardGearDown",
+				"key":
+				{
+					"key": "X",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "CameraMoveUp",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "CameraMoveUp",
+				"key":
+				{
+					"key": "Up",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			}
+		]
+	},
+	"comment": "",
+	"forceFeedbackIntervalSteps": 0
+}

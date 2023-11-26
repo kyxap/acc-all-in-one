@@ -1,0 +1,26 @@
+{
+	"isSafetyRatingEnabled": 0,
+	"isRacecraftRatingEnabled": 0,
+	"isRatingMPOnly": 0,
+	"isStatisticsMPOnly": 0,
+	"weightCleanServers": 0.69999998807907104,
+	"weightCompetition": 0.5,
+	"weightActivity": 0.39999997615814209,
+	"weightFriends": 0.79999995231628418,
+	"weightPing": 0.89999997615814209,
+	"weightNightDriving": 0.5,
+	"weightRainDriving": 0.5,
+	"targetDriverCount": 15,
+	"lobbyPingCount": 3,
+	"trackPreferenceByTrackId":
+	{
+		"8": 0.74000000953674316,
+		"3": 0.69999998807907104,
+		"6": 0.69999998807907104,
+		"2": 0.68000000715255737,
+		"10": 0.59999996423721313,
+		"1": 0.69999998807907104,
+		"11": 0.59999996423721313,
+		"14": 0.87000000476837158
+	}
+}
