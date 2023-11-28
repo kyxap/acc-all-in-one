@@ -374,7 +374,7 @@
 				"actionType": "CameraMoveUp",
 				"key":
 				{
-					"key": "Up",
+					"key": "None",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,
@@ -451,7 +451,7 @@
 				"actionType": "CameraMoveDown",
 				"key":
 				{
-					"key": "Down",
+					"key": "None",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,

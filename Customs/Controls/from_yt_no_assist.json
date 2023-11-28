@@ -181,28 +181,6 @@
 		"uICommandButtonList": [],
 		"raceCommandButtonList": [
 			{
-				"actionType": "None",
-				"key":
-				{
-					"key": "None",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
-				"actionType": "None",
-				"key":
-				{
-					"key": "None",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
 				"actionType": "IncreaseABS",
 				"key":
 				{
@@ -344,6 +322,28 @@
 					"bAlt": false,
 					"bCmd": false
 				}
+			},
+			{
+				"actionType": "CycleCamera",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "CycleHudMfd",
+				"key":
+				{
+					"key": "Gamepad_FaceButton_Top",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
 			}
 		]
 	},
@@ -360,72 +360,6 @@
 		"uICommandButtonList": [],
 		"raceCommandButtonList": [
 			{
-				"actionType": "None",
-				"key":
-				{
-					"key": "Comma",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
-				"actionType": "None",
-				"key":
-				{
-					"key": "Period",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
-				"actionType": "None",
-				"key":
-				{
-					"key": "A",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
-				"actionType": "None",
-				"key":
-				{
-					"key": "Z",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
-				"actionType": "None",
-				"key":
-				{
-					"key": "SpaceBar",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
-				"actionType": "None",
-				"key":
-				{
-					"key": "X",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
 				"actionType": "CameraMoveUp",
 				"key":
 				{
@@ -440,7 +374,7 @@
 				"actionType": "CameraMoveUp",
 				"key":
 				{
-					"key": "Up",
+					"key": "None",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,
@@ -507,6 +441,17 @@
 				"key":
 				{
 					"key": "X",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "CameraMoveDown",
+				"key":
+				{
+					"key": "None",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,
