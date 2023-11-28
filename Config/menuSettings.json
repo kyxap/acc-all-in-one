@@ -2624,7 +2624,7 @@
 				{
 					"carName": "0-231111-232233.json",
 					"driverName": "driver1.json",
-					"opponentCount": 24,
+					"opponentCount": 20,
 					"carGroups":
 					{
 						"GT3": 1,
@@ -2640,10 +2640,10 @@
 					"timeOfDay": 16,
 					"practiceLength": 600,
 					"qualifyLength": 0,
-					"raceLength": 300,
-					"positionOnGrid": 20,
+					"raceLength": 1200,
+					"positionOnGrid": 15,
 					"timeMultiplier": 1,
-					"trackName": "laguna_seca",
+					"trackName": "silverstone",
 					"skillMultiplier": 90,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
@@ -3132,12 +3132,12 @@
 		"BP_2019": "monza",
 		"BP_2018": "zolder",
 		"BP_2022": "imola",
-		"Free": "laguna_seca"
+		"Free": "silverstone"
 	},
-	"globalOpponentCount": 24,
+	"globalOpponentCount": 20,
 	"globalOpponentSkill": 90,
 	"globalOpponentAggro": 100,
-	"globalPositionOnGrid": 20,
+	"globalPositionOnGrid": 15,
 	"globalCarGroupRatios":
 	{
 		"GT3": 1,
@@ -3252,8 +3252,8 @@
 		"useLegacyTonemapper": false,
 		"shadowDistanceQuality": 3,
 		"contactShadows": false,
-		"dLSSEnable": true,
-		"dLSSQuality": 0,
+		"dLSSEnable": false,
+		"dLSSQuality": 1,
 		"dLSSSharpness": 0,
 		"dLSSAutoExposure": true,
 		"tAAGen5": false,
@@ -3268,7 +3268,7 @@
 	"customGraphicOptions":
 	{
 		"resolutionQuality": 100,
-		"viewDistanceQuality": 3,
+		"viewDistanceQuality": 2,
 		"antiAliasingQuality": 3,
 		"shadowQuality": 3,
 		"postProcessQuality": 3,
@@ -3293,7 +3293,7 @@
 		"carLODSet": 90,
 		"hLODEnabled": true,
 		"shadowDistanceQuality": 3,
-		"frameLimit": 0,
+		"frameLimit": 230,
 		"isMBlurEnabled": 0,
 		"colorSaturation": 1,
 		"sharpen": 0.79999995231628418,
@@ -3307,8 +3307,8 @@
 		"hDRColorGamut": 2,
 		"hDRUILevel": 1,
 		"contactShadows": 0,
-		"dLSSEnable": true,
-		"dLSSQuality": 0,
+		"dLSSEnable": false,
+		"dLSSQuality": 1,
 		"dLSSSharpness": 0,
 		"tAAGen5": false,
 		"aMDFSREnable": false,
@@ -3316,7 +3316,7 @@
 		"aMDFSRSharpness": 0.20000004768371582
 	},
 	"customDriverInfoNames": [],
-	"lastFilter": "Custom",
+	"lastFilter": "All",
 	"lastSeasonFilter": "Free",
 	"mPShowroomCarGroup": "FREE_FOR_ALL",
 	"mPShowroomCarGroupFilter": "GT3",
