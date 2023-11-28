@@ -1,1 +1,1 @@
-# acc-all-in-one
+# Assetto Corsa Competizione: Setups Motec Configs 
