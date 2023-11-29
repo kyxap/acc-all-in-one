@@ -2624,7 +2624,7 @@
 				{
 					"carName": "0-231111-232233.json",
 					"driverName": "driver1.json",
-					"opponentCount": 20,
+					"opponentCount": 17,
 					"carGroups":
 					{
 						"GT3": 1,
@@ -2640,8 +2640,8 @@
 					"timeOfDay": 16,
 					"practiceLength": 600,
 					"qualifyLength": 0,
-					"raceLength": 1200,
-					"positionOnGrid": 15,
+					"raceLength": 600,
+					"positionOnGrid": 9,
 					"timeMultiplier": 1,
 					"trackName": "silverstone",
 					"skillMultiplier": 90,
@@ -3134,10 +3134,10 @@
 		"BP_2022": "imola",
 		"Free": "silverstone"
 	},
-	"globalOpponentCount": 20,
+	"globalOpponentCount": 17,
 	"globalOpponentSkill": 90,
 	"globalOpponentAggro": 100,
-	"globalPositionOnGrid": 15,
+	"globalPositionOnGrid": 9,
 	"globalCarGroupRatios":
 	{
 		"GT3": 1,
@@ -3323,7 +3323,7 @@
 	"mPServerListCarGroupFilter": "ANY",
 	"mpServerListFilter":
 	{
-		"sortMode": 2,
+		"sortMode": 1,
 		"accessibleOnly": false,
 		"pingLimit": 0
 	},
