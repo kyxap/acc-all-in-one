@@ -358,9 +358,9 @@
 					"z": 0
 				},
 				{
-					"x": 5.7999968528747559,
+					"x": 2.9999995231628418,
 					"y": -1.3411045074462891e-07,
-					"z": -1.6000001430511475
+					"z": -2.2000007629394531
 				},
 				{
 					"x": -32.000083923339844,
@@ -373,7 +373,7 @@
 					"z": 4.3999981880187988
 				}
 			],
-			"pitches": [ 0, 0, 1.0000001192092896, 6.0999965667724609, 0.5, 6.0999965667724609, 1.8000003099441528 ]
+			"pitches": [ 0, 0, 1.0000001192092896, 6.0999965667724609, -0.099999867379665375, 6.0999965667724609, 1.8000003099441528 ]
 		},
 		"bentley_continental_gt3_2018":
 		{
@@ -599,6 +599,231 @@
 				}
 			],
 			"pitches": [ 0, 0, 0, 0, 0, 0, 0 ]
+		},
+		"ferrari_296_gt3":
+		{
+			"cockpitVisMode": 0,
+			"dashInHud": false,
+			"dashInHudWidthLimit": true,
+			"dashOpacity": 1,
+			"offsets": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": -26,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 9,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 4,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 9,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			],
+			"pitches": [ 0, 0, 0, 0, 0, 0, 0 ]
+		},
+		"nissan_gt_r_gt3_2018":
+		{
+			"cockpitVisMode": 0,
+			"dashInHud": false,
+			"dashInHudWidthLimit": true,
+			"dashOpacity": 1,
+			"offsets": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 5
+				},
+				{
+					"x": 5,
+					"y": 0,
+					"z": 1
+				},
+				{
+					"x": -15,
+					"y": 0,
+					"z": 3
+				},
+				{
+					"x": 5,
+					"y": 0,
+					"z": 1
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			],
+			"pitches": [ 0, 0, 0, 0, 0, 0, 0 ]
+		},
+		"bmw_m6_gt3":
+		{
+			"cockpitVisMode": 0,
+			"dashInHud": false,
+			"dashInHudWidthLimit": true,
+			"dashOpacity": 1,
+			"offsets": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 1,
+					"y": 0,
+					"z": -1
+				},
+				{
+					"x": -3,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 1,
+					"y": 0,
+					"z": -1
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			],
+			"pitches": [ 0, 0, 0, 0, 0, 0, 0 ]
+		},
+		"mclaren_650s_gt3":
+		{
+			"cockpitVisMode": 0,
+			"dashInHud": false,
+			"dashInHudWidthLimit": true,
+			"dashOpacity": 1,
+			"offsets": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 12,
+					"y": 0,
+					"z": 1
+				},
+				{
+					"x": 10,
+					"y": 2,
+					"z": 0
+				},
+				{
+					"x": 12,
+					"y": 0,
+					"z": 1
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			],
+			"pitches": [ 0, 0, 0, 0, 0, 0, 0 ]
+		},
+		"lamborghini_huracan_gt3":
+		{
+			"cockpitVisMode": 0,
+			"dashInHud": false,
+			"dashInHudWidthLimit": true,
+			"dashOpacity": 1,
+			"offsets": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 1,
+					"y": 0,
+					"z": 3
+				},
+				{
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 1,
+					"y": 0,
+					"z": 3
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			],
+			"pitches": [ 0, 0, 0, 0, 0, 0, 0 ]
 		}
 	},
 	"lookWithSteerGain": 0,
@@ -607,17 +832,17 @@
 	"lookAroundSpeed": 15,
 	"horizonLock": 0,
 	"enableTrackIR": 1,
-	"tripleWidth": 500,
-	"tripleDistance": 500,
-	"tripleAngle": 0,
-	"tripleBezel": 0,
+	"tripleWidth": 610,
+	"tripleDistance": 600,
+	"tripleAngle": 60,
+	"tripleBezel": 7,
 	"hDRExposure": 0.75,
 	"hDRContrast": 0.69999998807907104,
-	"mirrorFOV": 90,
+	"mirrorFOV": 70,
 	"useGamepadForFreeCamera": 0,
 	"virtualMirrorSize": 0.14999999105930328,
-	"virtualMirrorVerticalOffset": 0,
-	"virtualMirrorHorizontalOffset": 0,
+	"virtualMirrorVerticalOffset": 2.3499999046325684,
+	"virtualMirrorHorizontalOffset": -1.5299999713897705,
 	"tVCamFocusedAperture": 2.7999999523162842,
 	"tVCamStaticAperture": 16,
 	"tVCamStaticFocusDistance": 100000,
