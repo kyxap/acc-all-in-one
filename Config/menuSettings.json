@@ -1163,7 +1163,7 @@
 				{
 					"carName": "0-231111-232233.json",
 					"driverName": "driver1.json",
-					"opponentCount": 24,
+					"opponentCount": 6,
 					"carGroups":
 					{
 						"GT3": 1
@@ -1176,7 +1176,7 @@
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
 					"trackName": "zolder",
-					"skillMultiplier": 90,
+					"skillMultiplier": 94,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2519,7 +2519,7 @@
 				{
 					"carName": "0-231111-232233.json",
 					"driverName": "driver1.json",
-					"opponentCount": 24,
+					"opponentCount": 6,
 					"carGroups":
 					{
 					},
@@ -2530,8 +2530,8 @@
 					"raceLength": -1,
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
-					"trackName": "kyalami",
-					"skillMultiplier": 90,
+					"trackName": "misano",
+					"skillMultiplier": 95,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2554,7 +2554,7 @@
 				{
 					"carName": "0-231111-232233.json",
 					"driverName": "driver1.json",
-					"opponentCount": 24,
+					"opponentCount": 6,
 					"carGroups":
 					{
 					},
@@ -2566,7 +2566,7 @@
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
 					"trackName": "laguna_seca",
-					"skillMultiplier": 90,
+					"skillMultiplier": 95,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2589,7 +2589,7 @@
 				{
 					"carName": "F_6_1",
 					"driverName": "Pierburg_V",
-					"opponentCount": 24,
+					"opponentCount": 6,
 					"carGroups":
 					{
 					},
@@ -2601,7 +2601,7 @@
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
 					"trackName": "laguna_seca",
-					"skillMultiplier": 90,
+					"skillMultiplier": 95,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2624,7 +2624,7 @@
 				{
 					"carName": "0-231111-232233.json",
 					"driverName": "driver1.json",
-					"opponentCount": 17,
+					"opponentCount": 12,
 					"carGroups":
 					{
 						"GT3": 1,
@@ -2637,14 +2637,14 @@
 						"GT4_2019": 0
 					},
 					"raceEventType": "Free",
-					"timeOfDay": 16,
+					"timeOfDay": 23,
 					"practiceLength": 600,
 					"qualifyLength": 0,
-					"raceLength": 600,
-					"positionOnGrid": 9,
+					"raceLength": 1200,
+					"positionOnGrid": 2,
 					"timeMultiplier": 1,
-					"trackName": "silverstone",
-					"skillMultiplier": 90,
+					"trackName": "suzuka",
+					"skillMultiplier": 89,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2667,7 +2667,7 @@
 				{
 					"carName": "F_6_1",
 					"driverName": "Pierburg_V",
-					"opponentCount": 24,
+					"opponentCount": 6,
 					"carGroups":
 					{
 					},
@@ -2678,8 +2678,8 @@
 					"raceLength": 300,
 					"positionOnGrid": 5,
 					"timeMultiplier": 1,
-					"trackName": "laguna_seca",
-					"skillMultiplier": 90,
+					"trackName": "misano",
+					"skillMultiplier": 95,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2702,7 +2702,7 @@
 				{
 					"carName": "F_6_1",
 					"driverName": "Pierburg_V",
-					"opponentCount": 24,
+					"opponentCount": 6,
 					"carGroups":
 					{
 					},
@@ -2714,7 +2714,7 @@
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
 					"trackName": "laguna_seca",
-					"skillMultiplier": 90,
+					"skillMultiplier": 95,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -3132,12 +3132,12 @@
 		"BP_2019": "monza",
 		"BP_2018": "zolder",
 		"BP_2022": "imola",
-		"Free": "silverstone"
+		"Free": "suzuka"
 	},
-	"globalOpponentCount": 17,
-	"globalOpponentSkill": 90,
+	"globalOpponentCount": 12,
+	"globalOpponentSkill": 89,
 	"globalOpponentAggro": 100,
-	"globalPositionOnGrid": 9,
+	"globalPositionOnGrid": 2,
 	"globalCarGroupRatios":
 	{
 		"GT3": 1,
@@ -3195,7 +3195,7 @@
 	"isPrivacyPolicyAccepted": true,
 	"lastNewsItemIdRead": "update1.11",
 	"useFallbackControlPage": false,
-	"isNativeDBoxEnabled": true,
+	"isNativeDBoxEnabled": false,
 	"isNativeFanatecLedsEnabled": false,
 	"isFirstLaunchDataInserted": true,
 	"skipIntroSequence": true,
@@ -3206,11 +3206,11 @@
 		"lastLoadedPresetName": "",
 		"resolution":
 		{
-			"x": 3840,
-			"y": 2160
+			"x": 7680,
+			"y": 1440
 		},
 		"useFullscreen": false,
-		"useTripleScreen": false,
+		"useTripleScreen": true,
 		"hmdWorldToMeters": 100,
 		"useHDROutput": false,
 		"fpsCapUI": true,
@@ -3238,7 +3238,7 @@
 		"volumetricFog": 1,
 		"bloomLevel": 0.30000001192092896,
 		"bloomQuality": 5,
-		"mirrorsResolution": 2,
+		"mirrorsResolution": 1,
 		"cameraDirtLevel": 3,
 		"foliageLodQuality": 3,
 		"whiteBalance": 9300,
@@ -3252,7 +3252,7 @@
 		"useLegacyTonemapper": false,
 		"shadowDistanceQuality": 3,
 		"contactShadows": false,
-		"dLSSEnable": false,
+		"dLSSEnable": true,
 		"dLSSQuality": 1,
 		"dLSSSharpness": 0,
 		"dLSSAutoExposure": true,
@@ -3268,7 +3268,7 @@
 	"customGraphicOptions":
 	{
 		"resolutionQuality": 100,
-		"viewDistanceQuality": 2,
+		"viewDistanceQuality": 3,
 		"antiAliasingQuality": 3,
 		"shadowQuality": 3,
 		"postProcessQuality": 3,
@@ -3288,12 +3288,12 @@
 		"volumetricFog": 1,
 		"bloomLevel": 0.30000001192092896,
 		"bloomQuality": 5,
-		"mirrorsResolution": 2,
+		"mirrorsResolution": 1,
 		"foliageLodQuality": 3,
 		"carLODSet": 90,
 		"hLODEnabled": true,
 		"shadowDistanceQuality": 3,
-		"frameLimit": 230,
+		"frameLimit": 0,
 		"isMBlurEnabled": 0,
 		"colorSaturation": 1,
 		"sharpen": 0.79999995231628418,
@@ -3307,7 +3307,7 @@
 		"hDRColorGamut": 2,
 		"hDRUILevel": 1,
 		"contactShadows": 0,
-		"dLSSEnable": false,
+		"dLSSEnable": true,
 		"dLSSQuality": 1,
 		"dLSSSharpness": 0,
 		"tAAGen5": false,
@@ -3319,11 +3319,11 @@
 	"lastFilter": "All",
 	"lastSeasonFilter": "Free",
 	"mPShowroomCarGroup": "FREE_FOR_ALL",
-	"mPShowroomCarGroupFilter": "GT3",
+	"mPShowroomCarGroupFilter": "FREE_FOR_ALL",
 	"mPServerListCarGroupFilter": "ANY",
 	"mpServerListFilter":
 	{
-		"sortMode": 1,
+		"sortMode": 2,
 		"accessibleOnly": false,
 		"pingLimit": 0
 	},
