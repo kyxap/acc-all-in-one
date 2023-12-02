@@ -824,6 +824,51 @@
 				}
 			],
 			"pitches": [ 0, 0, 0, 0, 0, 0, 0 ]
+		},
+		"honda_nsx_gt3_evo":
+		{
+			"cockpitVisMode": 0,
+			"dashInHud": false,
+			"dashInHudWidthLimit": true,
+			"dashOpacity": 1,
+			"offsets": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			],
+			"pitches": [ 0, 0, 0, 0, 0, 0, 0 ]
 		}
 	},
 	"lookWithSteerGain": 0,
@@ -838,7 +883,7 @@
 	"tripleBezel": 7,
 	"hDRExposure": 0.75,
 	"hDRContrast": 0.69999998807907104,
-	"mirrorFOV": 70,
+	"mirrorFOV": 90,
 	"useGamepadForFreeCamera": 0,
 	"virtualMirrorSize": 0.14999999105930328,
 	"virtualMirrorVerticalOffset": 2.3499999046325684,

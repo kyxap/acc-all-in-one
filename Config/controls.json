@@ -302,10 +302,10 @@
 				}
 			},
 			{
-				"actionType": "GearUp",
+				"actionType": "None",
 				"key":
 				{
-					"key": "Gamepad_FaceButton_Bottom",
+					"key": "None",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,
@@ -313,10 +313,10 @@
 				}
 			},
 			{
-				"actionType": "GearDown",
+				"actionType": "None",
 				"key":
 				{
-					"key": "Gamepad_FaceButton_Left",
+					"key": "None",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,
@@ -339,6 +339,28 @@
 				"key":
 				{
 					"key": "Gamepad_FaceButton_Top",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "GearUp",
+				"key":
+				{
+					"key": "Gamepad_FaceButton_Bottom",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "GearDown",
+				"key":
+				{
+					"key": "Gamepad_FaceButton_Left",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,
@@ -372,6 +394,83 @@
 			},
 			{
 				"actionType": "CameraMoveUp",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "None",
+				"key":
+				{
+					"key": "Comma",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "None",
+				"key":
+				{
+					"key": "Period",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "None",
+				"key":
+				{
+					"key": "A",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "None",
+				"key":
+				{
+					"key": "Z",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "None",
+				"key":
+				{
+					"key": "SpaceBar",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "None",
+				"key":
+				{
+					"key": "X",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "CameraMoveDown",
 				"key":
 				{
 					"key": "None",
@@ -441,17 +540,6 @@
 				"key":
 				{
 					"key": "X",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
-				"actionType": "CameraMoveDown",
-				"key":
-				{
-					"key": "None",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,
