@@ -2624,7 +2624,7 @@
 				{
 					"carName": "0-231111-232233.json",
 					"driverName": "driver1.json",
-					"opponentCount": 12,
+					"opponentCount": 26,
 					"carGroups":
 					{
 						"GT3": 1,
@@ -2643,7 +2643,7 @@
 					"raceLength": 1200,
 					"positionOnGrid": 2,
 					"timeMultiplier": 1,
-					"trackName": "zandvoort",
+					"trackName": "hungaroring",
 					"skillMultiplier": 91,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
@@ -3132,12 +3132,12 @@
 		"BP_2019": "monza",
 		"BP_2018": "zolder",
 		"BP_2022": "imola",
-		"Free": "zandvoort"
+		"Free": "hungaroring"
 	},
-	"globalOpponentCount": 12,
+	"globalOpponentCount": 26,
 	"globalOpponentSkill": 91,
 	"globalOpponentAggro": 100,
-	"globalPositionOnGrid": 2,
+	"globalPositionOnGrid": 27,
 	"globalCarGroupRatios":
 	{
 		"GT3": 1,
