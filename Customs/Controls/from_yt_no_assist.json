@@ -7,27 +7,15 @@
 	"commandDevices": [
 		{
 			"version": 0,
-			"productName": "Controller (XBOX 360 For Windows)",
-			"productId": "301934814-10462-0-00807368867368",
-			"instanceGuid": "{11FF28DE-28DE-0001-0000-504944564944}",
+			"productName": "Controller (Xbox One For Windows)",
+			"productId": "50267230-0-0-00807368867368",
+			"instanceGuid": "{2C7D0670-91EA-11EE-8001-444553540000}",
 			"steeringWheelModel": "None",
 			"isGamePad": 0,
 			"isPedals": 0,
 			"iconTemplate": "None",
 			"uICommandButtonList": [],
 			"raceCommandButtonList": [
-				{
-					"buttonIndex": 4,
-					"powIndex": -1,
-					"powValue": 0,
-					"keyName": "None",
-					"gamepadButtonName": "None",
-					"instantActionCode": "Pinkie",
-					"extendedActionCode": "None",
-					"extendedTime": 1,
-					"pinkieInstanceActionCode": "None",
-					"pinkieExtendedActionCode": "None"
-				},
 				{
 					"buttonIndex": -1,
 					"powIndex": 0,
@@ -71,6 +59,104 @@
 					"keyName": "None",
 					"gamepadButtonName": "None",
 					"instantActionCode": "DecreaseBrakeBias",
+					"extendedActionCode": "None",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "DecreaseABS",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": 4,
+					"powIndex": -1,
+					"powValue": 0,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "Pinkie",
+					"extendedActionCode": "None",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
+				}
+			],
+			"raceCommandAxisList": [],
+			"forceFeedbackGain": 1,
+			"steerScale": 1,
+			"steerLock": 900,
+			"dynamicDamping": 1,
+			"steerLinearity": 1,
+			"roadEffects": 0,
+			"minDamper": 0,
+			"damperGain": 1,
+			"antaniGain": 1,
+			"minimumForceFeedback": 0,
+			"brakeGamma": 1,
+			"combinedPedals": 0
+		},
+		{
+			"version": 0,
+			"productName": "Controller (XBOX 360 For Windows)",
+			"productId": "301934814-10462-0-00807368867368",
+			"instanceGuid": "{11FF28DE-28DE-0001-0000-504944564944}",
+			"steeringWheelModel": "None",
+			"isGamePad": 0,
+			"isPedals": 0,
+			"iconTemplate": "None",
+			"uICommandButtonList": [],
+			"raceCommandButtonList": [
+				{
+					"buttonIndex": 4,
+					"powIndex": -1,
+					"powValue": 0,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "None",
+					"extendedActionCode": "None",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": -1,
+					"powIndex": 0,
+					"powValue": 9000,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "None",
+					"extendedActionCode": "None",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": -1,
+					"powIndex": 0,
+					"powValue": 27000,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "None",
+					"extendedActionCode": "None",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": -1,
+					"powIndex": 0,
+					"powValue": 0,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "None",
+					"extendedActionCode": "None",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "IncreaseABS",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": -1,
+					"powIndex": 0,
+					"powValue": 18000,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "None",
 					"extendedActionCode": "None",
 					"extendedTime": 1,
 					"pinkieInstanceActionCode": "DecreaseABS",
@@ -302,28 +388,6 @@
 				}
 			},
 			{
-				"actionType": "GearUp",
-				"key":
-				{
-					"key": "Gamepad_FaceButton_Bottom",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
-				"actionType": "GearDown",
-				"key":
-				{
-					"key": "Gamepad_FaceButton_Left",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
 				"actionType": "CycleCamera",
 				"key":
 				{
@@ -339,6 +403,28 @@
 				"key":
 				{
 					"key": "Gamepad_FaceButton_Top",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "GearUp",
+				"key":
+				{
+					"key": "Gamepad_FaceButton_Bottom",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "GearDown",
+				"key":
+				{
+					"key": "Gamepad_FaceButton_Left",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,
@@ -372,6 +458,17 @@
 			},
 			{
 				"actionType": "CameraMoveUp",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "CameraMoveDown",
 				"key":
 				{
 					"key": "None",
@@ -441,17 +538,6 @@
 				"key":
 				{
 					"key": "X",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
-				"actionType": "CameraMoveDown",
-				"key":
-				{
-					"key": "None",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,

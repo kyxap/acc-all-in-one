@@ -9,7 +9,7 @@
 		"BGT_2019": "Practice",
 		"BP_2020": "Practice",
 		"BP_2021": "Practice",
-		"Free": "QuickRace",
+		"Free": "Practice",
 		"BP_2022": "Practice"
 	},
 	"seasonRaceEventData":
@@ -2519,19 +2519,19 @@
 				{
 					"carName": "0-231111-232233.json",
 					"driverName": "driver1.json",
-					"opponentCount": 12,
+					"opponentCount": 3,
 					"carGroups":
 					{
 					},
 					"raceEventType": "Free",
-					"timeOfDay": 9,
+					"timeOfDay": 11,
 					"practiceLength": 600,
 					"qualifyLength": 0,
 					"raceLength": -1,
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
 					"trackName": "zandvoort",
-					"skillMultiplier": 90,
+					"skillMultiplier": 95,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2554,7 +2554,7 @@
 				{
 					"carName": "0-231111-232233.json",
 					"driverName": "driver1.json",
-					"opponentCount": 12,
+					"opponentCount": 10,
 					"carGroups":
 					{
 					},
@@ -2566,7 +2566,7 @@
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
 					"trackName": "zandvoort",
-					"skillMultiplier": 90,
+					"skillMultiplier": 95,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2589,7 +2589,7 @@
 				{
 					"carName": "F_6_1",
 					"driverName": "Pierburg_V",
-					"opponentCount": 12,
+					"opponentCount": 10,
 					"carGroups":
 					{
 					},
@@ -2601,7 +2601,7 @@
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
 					"trackName": "zandvoort",
-					"skillMultiplier": 90,
+					"skillMultiplier": 95,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2624,10 +2624,10 @@
 				{
 					"carName": "0-231111-232233.json",
 					"driverName": "driver1.json",
-					"opponentCount": 26,
+					"opponentCount": 3,
 					"carGroups":
 					{
-						"GT3": 1,
+						"GT3": 0,
 						"TCX": 0,
 						"Challenge_2020": 0,
 						"SuperTrofeo_2022": 0,
@@ -2637,14 +2637,14 @@
 						"GT4_2019": 0
 					},
 					"raceEventType": "Free",
-					"timeOfDay": 16,
+					"timeOfDay": 11,
 					"practiceLength": 600,
 					"qualifyLength": 0,
-					"raceLength": 1200,
+					"raceLength": 300,
 					"positionOnGrid": 2,
 					"timeMultiplier": 1,
-					"trackName": "hungaroring",
-					"skillMultiplier": 91,
+					"trackName": "zandvoort",
+					"skillMultiplier": 95,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2667,7 +2667,7 @@
 				{
 					"carName": "F_6_1",
 					"driverName": "Pierburg_V",
-					"opponentCount": 12,
+					"opponentCount": 3,
 					"carGroups":
 					{
 					},
@@ -2679,7 +2679,7 @@
 					"positionOnGrid": 5,
 					"timeMultiplier": 1,
 					"trackName": "zandvoort",
-					"skillMultiplier": 90,
+					"skillMultiplier": 95,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2702,7 +2702,7 @@
 				{
 					"carName": "F_6_1",
 					"driverName": "Pierburg_V",
-					"opponentCount": 12,
+					"opponentCount": 10,
 					"carGroups":
 					{
 					},
@@ -2714,7 +2714,7 @@
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
 					"trackName": "zandvoort",
-					"skillMultiplier": 90,
+					"skillMultiplier": 95,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -3132,15 +3132,15 @@
 		"BP_2019": "monza",
 		"BP_2018": "zolder",
 		"BP_2022": "imola",
-		"Free": "hungaroring"
+		"Free": "zandvoort"
 	},
-	"globalOpponentCount": 26,
-	"globalOpponentSkill": 91,
+	"globalOpponentCount": 3,
+	"globalOpponentSkill": 95,
 	"globalOpponentAggro": 100,
-	"globalPositionOnGrid": 27,
+	"globalPositionOnGrid": 2,
 	"globalCarGroupRatios":
 	{
-		"GT3": 1,
+		"GT3": 0,
 		"TCX": 0,
 		"Challenge_2020": 0,
 		"SuperTrofeo_2022": 0,
@@ -3150,7 +3150,7 @@
 		"GT4_2019": 0
 	},
 	"useNewGenGT3": 2,
-	"weatherType": "Sunny",
+	"weatherType": "Cloudy",
 	"bUseEnduranceKit": true,
 	"audio":
 	{
@@ -3190,6 +3190,8 @@
 	},
 	"serverPasswords":
 	{
+		"5.9.140.38:9307:9207": "6E17920EC1EE804EF04242A64B8C1E32",
+		"5.9.140.38:9365:9265": "515CC422A46D0E698A6AF6E71CD2FC28"
 	},
 	"specialEventPage": 0,
 	"isPrivacyPolicyAccepted": true,
@@ -3206,8 +3208,8 @@
 		"lastLoadedPresetName": "",
 		"resolution":
 		{
-			"x": 7680,
-			"y": 1440
+			"x": 3840,
+			"y": 2160
 		},
 		"useFullscreen": true,
 		"useTripleScreen": true,

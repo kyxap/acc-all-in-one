@@ -358,7 +358,7 @@
 					"z": 0
 				},
 				{
-					"x": 2.9999995231628418,
+					"x": -2.1000003814697266,
 					"y": -1.3411045074462891e-07,
 					"z": -2.2000007629394531
 				},
@@ -878,7 +878,7 @@
 	"horizonLock": 0,
 	"enableTrackIR": 1,
 	"tripleWidth": 610,
-	"tripleDistance": 600,
+	"tripleDistance": 710,
 	"tripleAngle": 60,
 	"tripleBezel": 7,
 	"hDRExposure": 0.75,
