@@ -19,7 +19,7 @@
 	"raceDirectorInvestigationVisible": 1,
 	"raceRealtimeStandingVisible": 1,
 	"raceStandingVisible": 1,
-	"radarVisible": 0,
+	"radarVisible": 1,
 	"sessionInfoVisible": 0,
 	"tyreTemps01Visible": 1,
 	"timeLeftWidgetVisible": 1,
