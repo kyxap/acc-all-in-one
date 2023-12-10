@@ -152,7 +152,7 @@
 		},
 		"bmw_m4_gt3":
 		{
-			"cockpitVisMode": 0,
+			"cockpitVisMode": 3,
 			"dashInHud": false,
 			"dashInHudWidthLimit": true,
 			"dashOpacity": 1,
@@ -180,7 +180,7 @@
 				{
 					"x": 0,
 					"y": 0,
-					"z": 0
+					"z": 0.79999995231628418
 				},
 				{
 					"x": 0,

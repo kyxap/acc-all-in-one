@@ -11,9 +11,9 @@
    <RangeBlock/>
   </Layer>
   <Details>
-   <String Id="Total Laps" Value="11"/>
+   <String Id="Total Laps" Value="3"/>
    <String Id="Fastest Time" Value="2:08.194"/>
-   <String Id="Fastest Lap" Value="5"/>
+   <String Id="Fastest Lap" Value="1"/>
   </Details>
  </Layers>
 </LDXFile>

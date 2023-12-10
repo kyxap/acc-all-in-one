@@ -2524,7 +2524,7 @@
 					{
 					},
 					"raceEventType": "Free",
-					"timeOfDay": 11,
+					"timeOfDay": 14,
 					"practiceLength": 600,
 					"qualifyLength": 0,
 					"raceLength": -1,
@@ -2589,7 +2589,7 @@
 				{
 					"carName": "F_6_1",
 					"driverName": "Pierburg_V",
-					"opponentCount": 10,
+					"opponentCount": 3,
 					"carGroups":
 					{
 					},
@@ -3155,24 +3155,24 @@
 	"audio":
 	{
 		"main": 0.79999995231628418,
-		"engineExt": 0.69999998807907104,
-		"engineInt": 0.69999998807907104,
+		"engineExt": 0.59999996423721313,
+		"engineInt": 0.59999996423721313,
 		"wheel": 1,
 		"wind": 1,
 		"environment": 0,
-		"damage": 1,
-		"comms": 0.75,
+		"damage": 0.75,
+		"comms": 0.84999996423721313,
 		"startingComms": 1,
 		"spotter": true,
 		"music": 0,
-		"opponent": 0.75,
+		"opponent": 0.84999996423721313,
 		"gui": 1,
 		"video": 1,
-		"bodywork": 0.89999997615814209,
+		"bodywork": 0.75,
 		"driverAudio":
 		{
 			"index": 0,
-			"name": "Headphones (4- TX-Hifi Type_C Audio)"
+			"name": "Headphones (TX-Hifi Type_C Audio)"
 		}
 	},
 	"currentLanguage": "English",
@@ -3191,7 +3191,8 @@
 	"serverPasswords":
 	{
 		"5.9.140.38:9307:9207": "6E17920EC1EE804EF04242A64B8C1E32",
-		"5.9.140.38:9365:9265": "515CC422A46D0E698A6AF6E71CD2FC28"
+		"5.9.140.38:9365:9265": "515CC422A46D0E698A6AF6E71CD2FC28",
+		"5.9.140.38:9366:9266": "515CC422A46D0E698A6AF6E71CD2FC28"
 	},
 	"specialEventPage": 0,
 	"isPrivacyPolicyAccepted": true,
@@ -3208,8 +3209,8 @@
 		"lastLoadedPresetName": "",
 		"resolution":
 		{
-			"x": 7680,
-			"y": 1440
+			"x": 3840,
+			"y": 2160
 		},
 		"useFullscreen": true,
 		"useTripleScreen": true,
@@ -3218,7 +3219,7 @@
 		"fpsCapUI": true,
 		"mirrorFramerateCap": 60,
 		"mirrorQualityLevel": 3,
-		"maxCarsVisible": 0,
+		"maxCarsVisible": 15,
 		"isMBlurEnabled": 0,
 		"motionBlurLevel": 1,
 		"isAATemporal": true,
@@ -3279,7 +3280,7 @@
 		"foliageQuality": 3,
 		"mirrorQualityLevel": 3,
 		"mirrorFramerateCap": 60,
-		"maxCarsVisible": 0,
+		"maxCarsVisible": 15,
 		"isAATemporal": true,
 		"aACustom": 0,
 		"pixelDensity": 1,
@@ -3318,7 +3319,7 @@
 		"aMDFSRSharpness": 0.20000004768371582
 	},
 	"customDriverInfoNames": [],
-	"lastFilter": "All",
+	"lastFilter": "Custom",
 	"lastSeasonFilter": "Free",
 	"mPShowroomCarGroup": "FREE_FOR_ALL",
 	"mPShowroomCarGroupFilter": "FREE_FOR_ALL",
