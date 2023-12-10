@@ -4,6 +4,6 @@
 	"useDifferentOpponent": 0,
 	"opponentModelType": "Ferrari_488_GT3",
 	"useExperimentalStateColor": 1,
-	"offsetTimeMS": 0,
+	"offsetTimeMS": 1000,
 	"ghostQuality": 2
 }
