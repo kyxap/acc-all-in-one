@@ -2565,7 +2565,7 @@
 					"raceLength": -1,
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
-					"trackName": "zandvoort",
+					"trackName": "spa",
 					"skillMultiplier": 95,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
@@ -3132,7 +3132,7 @@
 		"BP_2019": "monza",
 		"BP_2018": "zolder",
 		"BP_2022": "imola",
-		"Free": "zandvoort"
+		"Free": "spa"
 	},
 	"globalOpponentCount": 3,
 	"globalOpponentSkill": 95,
@@ -3192,7 +3192,10 @@
 	{
 		"5.9.140.38:9307:9207": "6E17920EC1EE804EF04242A64B8C1E32",
 		"5.9.140.38:9365:9265": "515CC422A46D0E698A6AF6E71CD2FC28",
-		"5.9.140.38:9366:9266": "515CC422A46D0E698A6AF6E71CD2FC28"
+		"5.9.140.38:9366:9266": "515CC422A46D0E698A6AF6E71CD2FC28",
+		"74.208.24.208:9331:9231": "515CC422A46D0E698A6AF6E71CD2FC28",
+		"5.9.140.38:9364:9264": "515CC422A46D0E698A6AF6E71CD2FC28",
+		"74.208.24.208:9341:9241": "515CC422A46D0E698A6AF6E71CD2FC28"
 	},
 	"specialEventPage": 0,
 	"isPrivacyPolicyAccepted": true,
@@ -3209,8 +3212,8 @@
 		"lastLoadedPresetName": "",
 		"resolution":
 		{
-			"x": 3840,
-			"y": 2160
+			"x": 7680,
+			"y": 1440
 		},
 		"useFullscreen": true,
 		"useTripleScreen": true,
@@ -3323,7 +3326,7 @@
 	"lastSeasonFilter": "Free",
 	"mPShowroomCarGroup": "FREE_FOR_ALL",
 	"mPShowroomCarGroupFilter": "FREE_FOR_ALL",
-	"mPServerListCarGroupFilter": "ANY",
+	"mPServerListCarGroupFilter": "GT3",
 	"mpServerListFilter":
 	{
 		"sortMode": 2,

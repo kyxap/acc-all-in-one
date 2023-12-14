@@ -6,9 +6,9 @@
 	"highlightsRecTimeBefore": 15,
 	"highlightsRecTimeAfter": 5,
 	"maxTimeReplaySeconds": 1800,
-	"autoSaveEnabled": 0,
+	"autoSaveEnabled": 1,
 	"autoSaveRaceNumber": 5,
-	"autoSaveQualifyNumber": 2,
+	"autoSaveQualifyNumber": 1,
 	"autoSaveOthersNumber": 1,
 	"autoSaveMinTimeSeconds": 30
 }
