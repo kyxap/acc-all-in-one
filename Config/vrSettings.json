@@ -1,0 +1,13 @@
+{
+	"mainMenuLayerDistance": 100,
+	"mainMenuLayerSize": 160,
+	"mainMenuLayerType": 1,
+	"raceMenuLayerDistance": 50,
+	"raceMenuLayerSize": 78,
+	"raceMenuLayerType": 1,
+	"hUDLayerDistance": 27,
+	"hUDLayerSize": 84,
+	"hUDLayerType": 1,
+	"spectatorScreenMode": 5,
+	"resetPositionAtStartup": 1
+}

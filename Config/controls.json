@@ -196,8 +196,8 @@
 	{
 		"useSteerWithRight": false,
 		"rumbleIntensity": 0.40000000596046448,
-		"steerSpeed": 0.36000001430511475,
-		"steerGamma": 1.6000000238418579,
+		"steerSpeed": 0.60000002384185791,
+		"steerGamma": 1.5,
 		"steerFilter": 0.25999999046325684,
 		"deadZone": 0,
 		"speedSensitivity": 0.73000001907348633,

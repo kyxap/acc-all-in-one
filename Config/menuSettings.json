@@ -9,7 +9,7 @@
 		"BGT_2019": "Practice",
 		"BP_2020": "Practice",
 		"BP_2021": "Practice",
-		"Free": "Hotlap",
+		"Free": "Practice",
 		"BP_2022": "Practice"
 	},
 	"seasonRaceEventData":
@@ -2517,9 +2517,9 @@
 			{
 				"Practice":
 				{
-					"carName": "0-231111-232233.json",
+					"carName": "0-231112-092222.json",
 					"driverName": "driver1.json",
-					"opponentCount": 3,
+					"opponentCount": 15,
 					"carGroups":
 					{
 					},
@@ -2530,8 +2530,8 @@
 					"raceLength": -1,
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
-					"trackName": "zandvoort",
-					"skillMultiplier": 95,
+					"trackName": "laguna_seca",
+					"skillMultiplier": 92,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2552,9 +2552,9 @@
 				},
 				"Hotlap":
 				{
-					"carName": "0-231111-232233.json",
+					"carName": "0-231112-092222.json",
 					"driverName": "driver1.json",
-					"opponentCount": 3,
+					"opponentCount": 15,
 					"carGroups":
 					{
 					},
@@ -2565,8 +2565,8 @@
 					"raceLength": -1,
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
-					"trackName": "spa",
-					"skillMultiplier": 95,
+					"trackName": "kyalami",
+					"skillMultiplier": 92,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2589,7 +2589,7 @@
 				{
 					"carName": "F_6_1",
 					"driverName": "Pierburg_V",
-					"opponentCount": 3,
+					"opponentCount": 15,
 					"carGroups":
 					{
 					},
@@ -2600,8 +2600,8 @@
 					"raceLength": 600,
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
-					"trackName": "zandvoort",
-					"skillMultiplier": 95,
+					"trackName": "kyalami",
+					"skillMultiplier": 92,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2622,9 +2622,9 @@
 				},
 				"QuickRace":
 				{
-					"carName": "0-231111-232233.json",
+					"carName": "0-231112-092222.json",
 					"driverName": "driver1.json",
-					"opponentCount": 3,
+					"opponentCount": 15,
 					"carGroups":
 					{
 						"GT3": 0,
@@ -2640,11 +2640,11 @@
 					"timeOfDay": 11,
 					"practiceLength": 600,
 					"qualifyLength": 0,
-					"raceLength": 300,
-					"positionOnGrid": 2,
+					"raceLength": 600,
+					"positionOnGrid": 15,
 					"timeMultiplier": 1,
-					"trackName": "zandvoort",
-					"skillMultiplier": 95,
+					"trackName": "kyalami",
+					"skillMultiplier": 92,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2660,14 +2660,14 @@
 					"isRefuelling_Enabled": false,
 					"pitWindowLength": 5,
 					"driverStintLength": 10,
-					"singleMakeType": 0,
+					"singleMakeType": 2,
 					"tyreSetCount": -1
 				},
 				"CustomRace":
 				{
 					"carName": "F_6_1",
 					"driverName": "Pierburg_V",
-					"opponentCount": 3,
+					"opponentCount": 15,
 					"carGroups":
 					{
 					},
@@ -2678,8 +2678,8 @@
 					"raceLength": 300,
 					"positionOnGrid": 5,
 					"timeMultiplier": 1,
-					"trackName": "zandvoort",
-					"skillMultiplier": 95,
+					"trackName": "kyalami",
+					"skillMultiplier": 92,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2702,7 +2702,7 @@
 				{
 					"carName": "F_6_1",
 					"driverName": "Pierburg_V",
-					"opponentCount": 3,
+					"opponentCount": 15,
 					"carGroups":
 					{
 					},
@@ -2713,8 +2713,8 @@
 					"raceLength": 600,
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
-					"trackName": "zandvoort",
-					"skillMultiplier": 95,
+					"trackName": "kyalami",
+					"skillMultiplier": 92,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -3132,12 +3132,12 @@
 		"BP_2019": "monza",
 		"BP_2018": "zolder",
 		"BP_2022": "imola",
-		"Free": "spa"
+		"Free": "laguna_seca"
 	},
-	"globalOpponentCount": 3,
-	"globalOpponentSkill": 95,
+	"globalOpponentCount": 15,
+	"globalOpponentSkill": 92,
 	"globalOpponentAggro": 100,
-	"globalPositionOnGrid": 2,
+	"globalPositionOnGrid": 15,
 	"globalCarGroupRatios":
 	{
 		"GT3": 0,
@@ -3154,21 +3154,21 @@
 	"bUseEnduranceKit": true,
 	"audio":
 	{
-		"main": 0.79999995231628418,
-		"engineExt": 0.59999996423721313,
-		"engineInt": 0.59999996423721313,
+		"main": 0.89999997615814209,
+		"engineExt": 0.35999998450279236,
+		"engineInt": 0.79999995231628418,
 		"wheel": 1,
-		"wind": 1,
+		"wind": 0.29999998211860657,
 		"environment": 0,
-		"damage": 0.75,
-		"comms": 0.84999996423721313,
+		"damage": 0.10999999940395355,
+		"comms": 0,
 		"startingComms": 1,
 		"spotter": true,
 		"music": 0,
 		"opponent": 0.84999996423721313,
 		"gui": 1,
 		"video": 1,
-		"bodywork": 0.75,
+		"bodywork": 0,
 		"driverAudio":
 		{
 			"index": 0,
@@ -3182,11 +3182,12 @@
 		"GT3": "0-231111-232233.json",
 		"GT4": "BGT4_61_1",
 		"GTC": "SP_67_1",
-		"TCX": "M2CS_1_1",
+		"TCX": "0-231112-092222.json",
 		"GT2": "None"
 	},
 	"templateOverrides":
 	{
+		"M2CS_1_1": 6
 	},
 	"serverPasswords":
 	{
@@ -3195,7 +3196,9 @@
 		"5.9.140.38:9366:9266": "515CC422A46D0E698A6AF6E71CD2FC28",
 		"74.208.24.208:9331:9231": "515CC422A46D0E698A6AF6E71CD2FC28",
 		"5.9.140.38:9364:9264": "515CC422A46D0E698A6AF6E71CD2FC28",
-		"74.208.24.208:9341:9241": "515CC422A46D0E698A6AF6E71CD2FC28"
+		"74.208.24.208:9341:9241": "515CC422A46D0E698A6AF6E71CD2FC28",
+		"74.208.24.208:9342:9242": "515CC422A46D0E698A6AF6E71CD2FC28",
+		"88.198.67.83:9384:9284": "515CC422A46D0E698A6AF6E71CD2FC28"
 	},
 	"specialEventPage": 0,
 	"isPrivacyPolicyAccepted": true,
@@ -3212,11 +3215,11 @@
 		"lastLoadedPresetName": "",
 		"resolution":
 		{
-			"x": 7680,
-			"y": 1440
+			"x": 3840,
+			"y": 2160
 		},
 		"useFullscreen": true,
-		"useTripleScreen": true,
+		"useTripleScreen": false,
 		"hmdWorldToMeters": 100,
 		"useHDROutput": false,
 		"fpsCapUI": true,
@@ -3259,7 +3262,7 @@
 		"shadowDistanceQuality": 3,
 		"contactShadows": true,
 		"dLSSEnable": true,
-		"dLSSQuality": -1,
+		"dLSSQuality": 1,
 		"dLSSSharpness": 0.62000000476837158,
 		"dLSSAutoExposure": true,
 		"tAAGen5": false,
@@ -3314,7 +3317,7 @@
 		"hDRUILevel": 1,
 		"contactShadows": 1,
 		"dLSSEnable": true,
-		"dLSSQuality": -1,
+		"dLSSQuality": 1,
 		"dLSSSharpness": 0.62000000476837158,
 		"tAAGen5": false,
 		"aMDFSREnable": false,
@@ -3326,7 +3329,7 @@
 	"lastSeasonFilter": "Free",
 	"mPShowroomCarGroup": "FREE_FOR_ALL",
 	"mPShowroomCarGroupFilter": "FREE_FOR_ALL",
-	"mPServerListCarGroupFilter": "GT3",
+	"mPServerListCarGroupFilter": "TCX",
 	"mpServerListFilter":
 	{
 		"sortMode": 2,
