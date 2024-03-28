@@ -1,8 +1,8 @@
 {
 	"enabled": 1,
 	"useInPractice": 0,
-	"useDifferentOpponent": 0,
-	"opponentModelType": "Ferrari_488_GT3",
+	"useDifferentOpponent": 1,
+	"opponentModelType": "Mclaren_720s_GT3_Evo",
 	"useExperimentalStateColor": 1,
 	"offsetTimeMS": 500,
 	"ghostQuality": 2

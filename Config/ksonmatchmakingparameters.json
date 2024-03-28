@@ -1,7 +1,7 @@
 {
 	"isSafetyRatingEnabled": 0,
 	"isRacecraftRatingEnabled": 0,
-	"isRatingMPOnly": 0,
+	"isRatingMPOnly": 1,
 	"isStatisticsMPOnly": 0,
 	"weightCleanServers": 0.69999998807907104,
 	"weightCompetition": 0.5,

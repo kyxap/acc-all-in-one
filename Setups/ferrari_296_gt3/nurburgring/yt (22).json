@@ -1,0 +1,86 @@
+{
+	"carName": "ferrari_296_gt3",
+	"basicSetup":
+	{
+		"tyres":
+		{
+			"tyreCompound": 0,
+			"tyrePressure": [ 52, 59, 46, 53 ]
+		},
+		"alignment":
+		{
+			"camber": [ 0, 0, 0, 0 ],
+			"toe": [ 28, 28, 32, 32 ],
+			"staticCamber": [ -4.6676397323608398, -4.6633663177490234, -5.2223920822143555, -5.2176532745361328 ],
+			"toeOutLinear": [ -0.00032152514904737473, -0.00032153126085177064, -0.00039360058144666255, -0.00039358640788123012 ],
+			"casterLF": 20,
+			"casterRF": 20,
+			"steerRatio": 3
+		},
+		"electronics":
+		{
+			"tC1": 5,
+			"tC2": 0,
+			"abs": 2,
+			"eCUMap": 0,
+			"fuelMix": 0,
+			"telemetryLaps": 99
+		},
+		"strategy":
+		{
+			"fuel": 0,
+			"nPitStops": 0,
+			"tyreSet": 0,
+			"frontBrakePadCompound": 0,
+			"rearBrakePadCompound": 0,
+			"pitStrategy": [
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 52, 59, 46, 53 ]
+					},
+					"tyreSet": 2,
+					"frontBrakePadCompound": 0,
+					"rearBrakePadCompound": 0
+				}
+			],
+			"fuelPerLap": 2.4500000476837158
+		}
+	},
+	"advancedSetup":
+	{
+		"mechanicalBalance":
+		{
+			"aRBFront": 1,
+			"aRBRear": 1,
+			"wheelRate": [ 0, 0, 0, 0 ],
+			"bumpStopRateUp": [ 2, 2, 2, 2 ],
+			"bumpStopRateDn": [ 0, 0, 10, 10 ],
+			"bumpStopWindow": [ 5, 5, 20, 20 ],
+			"brakeTorque": 20,
+			"brakeBias": 34
+		},
+		"dampers":
+		{
+			"bumpSlow": [ 5, 5, 1, 1 ],
+			"bumpFast": [ 5, 5, 8, 8 ],
+			"reboundSlow": [ 10, 10, 11, 11 ],
+			"reboundFast": [ 5, 5, 8, 8 ]
+		},
+		"aeroBalance":
+		{
+			"rideHeight": [ 2, 6, 16, 18 ],
+			"rodLength": [ 38.116062164306641, 38.116062164306641, 50.554416656494141, 50.554416656494141 ],
+			"splitter": 0,
+			"rearWing": 12,
+			"brakeDuct": [ 3, 3 ]
+		},
+		"drivetrain":
+		{
+			"preload": 0
+		}
+	},
+	"trackBopType": 28
+}
