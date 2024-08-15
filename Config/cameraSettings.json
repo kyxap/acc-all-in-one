@@ -1184,6 +1184,51 @@
 				}
 			],
 			"pitches": [ 0, 0, 0, 0, 0, 0, 0 ]
+		},
+		"porsche_992_gt3_cup":
+		{
+			"cockpitVisMode": 0,
+			"dashInHud": false,
+			"dashInHudWidthLimit": true,
+			"dashOpacity": 1,
+			"offsets": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			],
+			"pitches": [ 0, 0, 0, 0, 0, 0, 0 ]
 		}
 	},
 	"lookWithSteerGain": 0,

@@ -1,7 +1,7 @@
 {
 	"enabled": 1,
 	"useInPractice": 0,
-	"useDifferentOpponent": 1,
+	"useDifferentOpponent": 0,
 	"opponentModelType": "Mclaren_720s_GT3_Evo",
 	"useExperimentalStateColor": 1,
 	"offsetTimeMS": 500,

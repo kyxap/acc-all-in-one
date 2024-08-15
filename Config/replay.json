@@ -1,8 +1,8 @@
 {
 	"replayQuality": 1,
 	"farAIReplayQuality": 2,
-	"automaticHiglightEnabled": 1,
-	"useOnlyPlayerCarHighlights": 1,
+	"automaticHiglightEnabled": 0,
+	"useOnlyPlayerCarHighlights": 0,
 	"highlightsRecTimeBefore": 15,
 	"highlightsRecTimeAfter": 5,
 	"maxTimeReplaySeconds": 1800,

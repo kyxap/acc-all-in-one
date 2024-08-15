@@ -1,15 +1,15 @@
 {
-	"singlePlayerSeason": "BP_2019",
+	"singlePlayerSeason": "Free",
 	"seasonGameMode":
 	{
-		"BP_2019": "Hotlap",
+		"BP_2019": "QuickRace",
 		"IGT_2019": "Practice",
 		"GT4_2019": "Practice",
 		"BP_2018": "Hotlap",
 		"BGT_2019": "Practice",
 		"BP_2020": "Practice",
 		"BP_2021": "Practice",
-		"Free": "Practice",
+		"Free": "Hotlap",
 		"BP_2022": "Practice",
 		"GT2_2023": "Practice",
 		"BP_2023": "Practice"
@@ -72,7 +72,7 @@
 					"raceLength": -1,
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
-					"trackName": "donington",
+					"trackName": "mount_panorama",
 					"skillMultiplier": 94,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
@@ -107,7 +107,7 @@
 					"raceLength": 600,
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
-					"trackName": "nurburgring",
+					"trackName": "mount_panorama",
 					"skillMultiplier": 94,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
@@ -353,7 +353,7 @@
 					"raceLength": 600,
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
-					"trackName": "nurburgring",
+					"trackName": "mount_panorama",
 					"skillMultiplier": 94,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
@@ -1166,7 +1166,7 @@
 				{
 					"carName": "0-231111-232233.json",
 					"driverName": "driver1.json",
-					"opponentCount": 6,
+					"opponentCount": 15,
 					"carGroups":
 					{
 						"GT3": 1
@@ -2520,7 +2520,7 @@
 			{
 				"Practice":
 				{
-					"carName": "0-231225-103542.json",
+					"carName": "0-231112-092222.json",
 					"driverName": "driver1.json",
 					"opponentCount": 15,
 					"carGroups":
@@ -2533,8 +2533,8 @@
 					"raceLength": -1,
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
-					"trackName": "brands_hatch",
-					"skillMultiplier": 93,
+					"trackName": "laguna_seca",
+					"skillMultiplier": 94,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -2568,8 +2568,8 @@
 					"raceLength": -1,
 					"positionOnGrid": 1,
 					"timeMultiplier": 1,
-					"trackName": "brands_hatch",
-					"skillMultiplier": 93,
+					"trackName": "suzuka",
+					"skillMultiplier": 94,
 					"aggroMultiplier": 100,
 					"p1_TimeOfDay": 14,
 					"p2_Enabled": false,
@@ -3774,10 +3774,10 @@
 	},
 	"globalSeasonTrackName":
 	{
-		"BP_2019": "donington",
+		"BP_2019": "laguna_seca",
 		"BP_2018": "zolder",
 		"BP_2022": "imola",
-		"Free": "brands_hatch"
+		"Free": "suzuka"
 	},
 	"globalOpponentCount": 15,
 	"globalOpponentSkill": 94,
@@ -3799,7 +3799,7 @@
 	"bUseEnduranceKit": true,
 	"audio":
 	{
-		"main": 0.44999998807907104,
+		"main": 0.81999999284744263,
 		"engineExt": 0.35999998450279236,
 		"engineInt": 0.75,
 		"wheel": 1,
@@ -3816,8 +3816,8 @@
 		"bodywork": 0.34000000357627869,
 		"driverAudio":
 		{
-			"index": 4,
-			"name": "Headphones (4- TX-Hifi Type_C Audio)"
+			"index": 0,
+			"name": "Headphones (AZ09 Pro)"
 		}
 	},
 	"currentLanguage": "English",
@@ -3828,7 +3828,7 @@
 		"GT4": "BGT4_61_1",
 		"GTC": "SP_67_1",
 		"TCX": "0-231112-092222.json",
-		"GT2": "None"
+		"GT2": "BGTC_15_1"
 	},
 	"templateOverrides":
 	{
@@ -3877,7 +3877,7 @@
 		"motionBlurLevel": 1,
 		"isAATemporal": true,
 		"aACustom": 0,
-		"colorSaturation": 0.79999995231628418,
+		"colorSaturation": 0.89999997615814209,
 		"sharpen": 0.79999995231628418,
 		"pixelDensity": 1,
 		"hDROverride": 0,
@@ -3888,15 +3888,15 @@
 		"hDRImageContrastOffset": 0.20000000298023224,
 		"hDRExposureGainOffset": 0.34999999403953552,
 		"mirrorDistance": 25000,
-		"advancedSharpenFilter": false,
+		"advancedSharpenFilter": true,
 		"materialsQuality": 1,
 		"temporalUpsampling": true,
 		"volumetricFog": 3,
 		"bloomLevel": 0.30000001192092896,
-		"bloomQuality": 4,
+		"bloomQuality": 5,
 		"mirrorsResolution": 2,
 		"cameraDirtLevel": 3,
-		"foliageLodQuality": 2,
+		"foliageLodQuality": 3,
 		"whiteBalance": 9300,
 		"carLODSet": 90,
 		"hLODEnabled": true,
@@ -3910,7 +3910,7 @@
 		"contactShadows": true,
 		"dLSSEnable": true,
 		"dLSSQuality": 1,
-		"dLSSSharpness": 0.62000000476837158,
+		"dLSSSharpness": 0,
 		"dLSSAutoExposure": true,
 		"tAAGen5": false,
 		"aMDFSREnable": false,
@@ -3938,20 +3938,20 @@
 		"aACustom": 0,
 		"pixelDensity": 1,
 		"mirrorDistance": 25000,
-		"advancedSharpenFilter": false,
+		"advancedSharpenFilter": true,
 		"materialsQuality": 1,
 		"temporalUpsampling": true,
 		"volumetricFog": 3,
 		"bloomLevel": 0.30000001192092896,
-		"bloomQuality": 4,
+		"bloomQuality": 5,
 		"mirrorsResolution": 2,
-		"foliageLodQuality": 2,
+		"foliageLodQuality": 3,
 		"carLODSet": 90,
 		"hLODEnabled": true,
 		"shadowDistanceQuality": 3,
 		"frameLimit": 0,
 		"isMBlurEnabled": 0,
-		"colorSaturation": 0.79999995231628418,
+		"colorSaturation": 0.89999997615814209,
 		"sharpen": 0.79999995231628418,
 		"cameraDirtLevel": 3,
 		"whiteBalance": 9300,
@@ -3965,7 +3965,7 @@
 		"contactShadows": 1,
 		"dLSSEnable": true,
 		"dLSSQuality": 1,
-		"dLSSSharpness": 0.62000000476837158,
+		"dLSSSharpness": 0,
 		"tAAGen5": false,
 		"aMDFSREnable": false,
 		"aMDFSRQuality": 2,
@@ -3975,7 +3975,7 @@
 	"lastFilter": "Custom",
 	"lastSeasonFilter": "Free",
 	"mPShowroomCarGroup": "FREE_FOR_ALL",
-	"mPShowroomCarGroupFilter": "GT3",
+	"mPShowroomCarGroupFilter": "FREE_FOR_ALL",
 	"mPServerListCarGroupFilter": "ANY",
 	"mpServerListFilter":
 	{
